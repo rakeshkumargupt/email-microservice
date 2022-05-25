@@ -158,4 +158,4 @@ RESPONSE: HTTP 200
 
 Run the server and browse to `localhost:8080/email-service/swagger-ui.html`
 
-## Questions and Comments : [Rakesh Gupta](mailto:rakeshgupta.contact@gmail.com?subject=GitHub Email Service)
+## Questions and Comments : rakeshgupta.contact@gmail.com
